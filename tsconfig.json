@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "target": "es2018",
+        "outDir": "dist",
+        "resolveJsonModule": true,
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "allowSyntheticDefaultImports": true,
+        "noImplicitReturns": true,
+        "noUnusedLocals": false,
+        "strict": true,
+        "sourceMap": true,
+        "inlineSources": true,
+        "sourceRoot": "/"
+    },
+    "include": [
+        "src/**/*.ts"
+    ],
+    "exclude": ["node_modules"]
+}

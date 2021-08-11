@@ -1,0 +1,10 @@
+{
+  "name": "mullerverse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.2",
+    "mathjs": "^9.4.4"
+  }
+}
